@@ -78,7 +78,7 @@ namespace Demo_Project
             if (countryScoresList.Count(s => s.Name == countryName) == 0)
             {
                 Console.WriteLine();
-                Console.WriteLine("Error: Country doesn't exist! Please try again, bitch.");
+                Console.WriteLine("Error: Country doesn't exist! Please try again.");
                 Console.WriteLine();
                 Country();
             }
