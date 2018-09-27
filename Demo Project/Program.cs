@@ -12,7 +12,6 @@ namespace Demo_Project
         static void Main(string[] args)
         {
             Menu();
-            //ScoreHelpers.ShowResults(ScoreHelpers.ShowResultsList<FixtureScores>("fixtures", "matches", "fixtures",null));
             Console.ReadKey();
         }
 
